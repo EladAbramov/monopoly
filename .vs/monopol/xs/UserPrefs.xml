@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8120DEE6-273E-AE5D-0AEB-1885C59E9C44}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/playerManager.cs">
+    <Files>
+      <File FileName="Assets/diceManager.cs" Line="25" Column="10" />
+      <File FileName="Assets/scripts/playerManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="monopol" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="playerManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e065577-d61b-4e0d-802a-8bc7f8d63fd8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
